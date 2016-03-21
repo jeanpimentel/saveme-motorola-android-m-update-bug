@@ -8,7 +8,7 @@
 ⚡ Developer mode isn't available, so Debug Mode isn't possible and `adb` neither. So, I built this app to open an `Activity` and the problem was resolved.
 
 ## Instructions:
-1. At mobile browser, download APK here: [https://github.com/jeanpimentel/saveme-motorola-android-m-update-bug/releases/download/1.0.0/saveme.apk](https://github.com/jeanpimentel/saveme-motorola-android-m-update-bug/releases/download/1.0.0/saveme.apk)
+1. At mobile browser, download APK here: [https://github.com/jeanpimentel/saveme-motorola-android-m-update-bug/releases/download/1.0.0/saveme.apk](https://github.com/jeanpimentel/saveme-motorola-android-m-update-bug/releases/download/1.0.0/saveme.apk) or ![qrcode](qrcode.png)
 2. Install
 3. Open
 4. Click at 'Save Me'
